@@ -1,9 +1,9 @@
 :root{
-    --cor-de-fundo:#EBECEE;
+    --cor-de-fundo:#b4e1f3;
 }
 
 body{
-    background-color: var(--cor-de-fundo) cornflowerblue;
+    background-color: var(--cor-de-fundo) 
 }
 
 h1{
